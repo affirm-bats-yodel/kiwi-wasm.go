@@ -16,7 +16,7 @@
             go
             golangci-lint
             marksman
-            wasmer
+            # wasmer
           ];
         };
       }
